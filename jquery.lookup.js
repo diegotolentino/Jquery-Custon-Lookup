@@ -31,13 +31,13 @@ function jqueryLookup(oField, oCallBack, mSource, mParams) {
 				data: mParams,
 				success: function (data){
 					if(data.error){
-						$( "#dialogo" ).dialog({ title: 'Error', modal: true}).text(data.errorDetail.message);				
+						alert(data.errorDetail.message);				
 					} else {
 						response(data);
 					}
 				},
 				error: function (jqXHR, textStatus, errorThrown){
-					$( "#dialogo" ).dialog({ title: 'Error', modal: true}).text(errorThrown.toString());				
+					alert(errorThrown.toString());				
 				}
 			});			
 		},
