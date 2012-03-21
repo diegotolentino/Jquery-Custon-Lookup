@@ -1,4 +1,6 @@
-[[About]]
+----------
+About
+----------
 
 En
 jQuery Custon Lookup extends the jQuery ui autocomplete, with a nice look,
@@ -7,3 +9,17 @@ providing a select-box like narrow and option to enter term to fetch in server s
 Ptb
 jQuery Custon Lookup extende o autocomplete do jQuery ui autocomplete, com um visual agradavel, 
 promovendo uma seta como nos select-box e opção para entrar com um termo de busca para ser efetuado no servidor
+
+----------
+Samples
+----------
+
+En
+Samples have 2 snippet of usage:
+1 - Code of most common usage of lookup
+2 - Code to solve the "Dependent Select Boxes/Drop Down List" problem. Ex: Country/State
+
+Ptb
+Nos exemplos há 2 exmplos de utilização
+1 - Exmplo de uso mais comum de procura
+2 - Exemplo para resolver o problema de "Select Box dependentes". Ex: Pais/Estado
