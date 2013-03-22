@@ -1,9 +1,10 @@
 /*display input*/
 .jquery-lookup{
-  border-right: 0;
   height: 27px;
   padding: 0;
   float: left;
+  max-width: 500px;
+  width: 100%;
 }
 
 /*list of options*/
