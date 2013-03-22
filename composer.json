@@ -1,0 +1,13 @@
+{
+    "name": "diegotolentino/jquery.lookup",
+    "description": "jQuery Custon Lookup extends the jQuery ui autocomplete, with a nice look, providing a select-box like narrow and option to enter term to fetch in server side",
+    "authors": [
+        {
+            "name": "Diego Tolentino",
+            "email": "diegotolentino@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
